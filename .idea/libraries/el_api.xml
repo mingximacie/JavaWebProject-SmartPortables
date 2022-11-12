@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="el-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

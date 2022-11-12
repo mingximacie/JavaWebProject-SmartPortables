@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bson-3.12.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bson-3.12.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongo-java-driver-3.12.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongodb-driver-core-3.12.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

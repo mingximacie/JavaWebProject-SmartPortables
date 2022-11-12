@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AS3">
+    <output-path>$PROJECT_DIR$/out/artifacts/AS3</output-path>
+    <root id="root">
+      <element id="artifact" artifact-name="Assignment2" />
+      <element id="javaee-facet-resources" facet="AS3/web/Web" />
+    </root>
+  </artifact>
+</component>

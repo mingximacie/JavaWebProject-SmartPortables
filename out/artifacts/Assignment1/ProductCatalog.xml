@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<WearableCatalog>
+    <wearable id="Xiaomi">
+        <name>Xiaomi Watches</name>
+        <price>199.99</price>
+        <description>Xiaomi Fitness Watches 6</description>
+        <manufacturer>Xiaomi</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </wearable>
+    <wearable id="apple">
+        <name>Apple Watches </name>
+        <price>299.99</price>
+        <description>Apple Smart Watches 4</description>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wearable>
+
+    <wearable id="samsung">
+        <name>Samsung Watches </name>
+        <price>299.99</price>
+        <description>Samsung Smart Watches 4</description>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+
+    </wearable>
+
+    <wearable id="bose">
+        <name>Bose qc45 Headphones</name>
+        <price>349.99</price>
+        <description>Qc45 Headphones</description>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wearable>
+    <wearable id="bose35">
+        <name>Bose qc35 Headphones</name>
+        <price>249.99</price>
+        <description>Qc35 Headphones</description>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </wearable>
+
+    <wearable id="pet">
+        <name>Petfon Pet Tracker</name>
+        <price>240.00</price>
+        <description>Petfon Tracker II</description>
+        <manufacturer>Petfon</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+    </wearable>
+
+    <wearable id="vr">
+        <name>Meta(Oculus) Virtual Reality Headset</name>
+        <price>353.00</price>
+        <description>Oculus Quest 2 Advanced All-In-One Virtual Reality Headset</description>
+        <manufacturer>Meta</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </wearable>
+
+
+</WearableCatalog>
+
+<LaptopCatalog>
+    <laptops id="apple">
+        <name>Macbook pro 2021</name>
+        <price>1010.99</price>
+        <description>2021 macbook pro 256G 16G</description>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </laptops>
+    <laptops id="appleair">
+        <name>Macbook air 2022</name>
+        <price>899.99</price>
+        <description>2022 macbook air 256G 8G</description>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </laptops>
+    <laptops id="surfacepro">
+        <name>Surface pro 2021</name>
+        <price>852.00</price>
+        <description>Microsoft Surface Laptop pro 2021</description>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptops>
+    <laptops id="microsoft">
+        <name>Surface Pro 4</name>
+        <price>752.00</price>
+        <description>Microsoft Surface Laptop pro 4</description>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptops>
+    <laptops id="samsung">
+        <name>Samsung Laptop</name>
+        <price>640.99</price>
+        <description>Samsung 2021 Laptops</description>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptops>
+
+</LaptopCatalog>
+<PhoneCatalog>
+<phones id="apple">
+        <name>iPhone 13 pro</name>
+        <price>820.00</price>
+        <description>Apple 2021 newest iphone 13 pro</description>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</phones>
+    <phones id="apple12">
+        <name>iPhone 12 pro</name>
+        <price>760.00</price>
+        <description>Apple 2020 iphone 132 pro</description>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </phones>
+<phones id="samsung">
+        <name>Samsung Galaxy 5</name>
+        <price>732.99</price>
+        <description>Samsung 2022 Galaxy series phone</description>
+        <manufacturer>Samsung</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>10.0</discount>
+</phones>
+    <phones id="samsung4">
+        <name>Samsung Galaxy 4</name>
+        <price>632.99</price>
+        <description>Samsung 2021 Galaxy series phone</description>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </phones>
+<phones id="huawei">
+        <name>Huawei Honour 10</name>
+        <price>320.00</price>
+        <description>Huawei 2022 newest Honour series phones</description>
+        <manufacturer>Huawei</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+</phones>
+
+</PhoneCatalog>
+
+<VoiceAssistantCatalog>
+
+    <voiceAssistant id="amazon">
+        <name>Amazon Alexa Assistant</name>
+        <price>189.99</price>
+        <description>Best for Device Compatibility</description>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </voiceAssistant>
+
+    <voiceAssistant id="google">
+        <name>Google Voice Assistant</name>
+        <price>189.99</price>
+        <description>Best for Responding </description>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </voiceAssistant>
+
+</VoiceAssistantCatalog>
+
+</ProductCatalog>
